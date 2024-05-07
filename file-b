@@ -3,8 +3,11 @@ And this is file b
 Dimarahin bu irma eak
 
 tai emang
+<<<<<<< HEAD
 Conflict 1
 Conflict 2
 Conflict 3
+=======
 
 tis
+>>>>>>> 55b29e843c74526149ef291a2007bf2d7cb6606d
